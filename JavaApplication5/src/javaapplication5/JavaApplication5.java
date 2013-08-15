@@ -17,5 +17,6 @@ public class JavaApplication5 {
         // TODO code application logic here
         int y=10;
         int x=10;
+        int a=10;
     }
 }
